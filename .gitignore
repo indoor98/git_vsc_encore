@@ -3,3 +3,5 @@ secret.yml
 #
 cote.py
 *.py
+./vsc_java_workspace
+
